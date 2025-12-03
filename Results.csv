@@ -1,0 +1,12 @@
+Subscription,ResourceGroup,ResourceName,ResourceType
+Subscription,ResourceGroup,ResourceName,ResourceType
+Subscription,ResourceGroup,ResourceName,ResourceType
+Subscription,ResourceGroup,ResourceName,ResourceType
+Subscription,ResourceGroup,ResourceName,ResourceType
+Azure for Students,Powershell_Demo,vmpowershell_key,Microsoft.Compute/sshPublicKeys
+Azure for Students,Powershell_Demo,vmpowershell-nsg,Microsoft.Network/networkSecurityGroups
+Azure for Students,Powershell_Demo,vmpowershell-ip,Microsoft.Network/publicIPAddresses
+Azure for Students,Powershell_Demo,vnet-eastus,Microsoft.Network/virtualNetworks
+Azure for Students,Powershell_Demo,vmpowershell796_z1,Microsoft.Network/networkInterfaces
+Azure for Students,Powershell_Demo,vmpowershell,Microsoft.Compute/virtualMachines
+Azure for Students,Powershell_Demo,vmpowershell_OsDisk_1_fa4442c04b184af89c43768df3f0bd76,Microsoft.Compute/disks
